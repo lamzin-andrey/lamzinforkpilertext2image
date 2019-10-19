@@ -1,0 +1,14 @@
+{
+    "name": "lamzinforkpriler/text2image",
+    "description": "This is fork https://github.com/Priler/Text2Image with purpose fix autoload psr-4 in the application version Symfony 3.4, created with Symfony-CLI 4.7.3, and Priler/Text2Image was installed with composer version 1.9.0. This fork fixed autoload psr-4.",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+			"LamzinforkPriler\\Text2Image\\": "src/"
+        }
+    }
+}
