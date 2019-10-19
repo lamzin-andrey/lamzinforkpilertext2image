@@ -10,6 +10,6 @@ Class documentation see in original repoisitory https://github.com/Priler/Text2I
 
 ## Что это
 
-Это форк https://github.com/Priler/Text2Image с целью исправить автозагрузку psr-4 для приложения Symfony версии 3.4, созданного с помощью Symfony-CLI ыерсии 4.7.3, а Priler/Text2Image был установлен с помощью composer версии 1.9.0. Автозагрузка этого класса не работала, на этой вилке она исправлена.
+Это форк https://github.com/Priler/Text2Image с целью исправить автозагрузку psr-4 для приложения Symfony версии 3.4, созданного с помощью Symfony-CLI версии 4.7.3, а Priler/Text2Image был установлен с помощью composer версии 1.9.0. Автозагрузка этого класса не работала, в этой вилке она исправлена.
 
 Докуменатцию класса смотрте в оригинальном репозитории https://github.com/Priler/Text2Image.
